@@ -5,7 +5,7 @@ Hello! I'm Eddie and I'm a Full Stack Developer and Software Engineer. I had a p
 
 - [Educated Savage Phtoography](http://www.EducatedSavage.com)
 - [Personal Portfolio Site](http://www.CharleneSlimp.com)
-- [Educated Savage Twitter](http://www.Twitter.com/EducatedSavge)
+- [Educated Savage Twitter](http://www.Twitter.com/EducatedSavage)
 
 Computer Languages:
 - HTML5
