@@ -1,5 +1,8 @@
 ![Banner on Github for EducatedSavage](GithubBanner.jpg?raw=true)
 
+Hello! I'm Eddie and I'm a Full Stack Developer and Software Engineer. I had a prior career in international health care rehabilitation accreditaiton as an Executive Adminitrative Assistant+ but I've enjoyed webdev and computer programming (since junior high) on the side for fun and am now enjoying my webdev/software engineering career. 
+
+
 - [Educated Savage Phtoography](http://www.EducatedSavage.com)
 - [Personal Portfolio Site](http://www.CharleneSlimp.com)
 - [Educated Savage Twitter](http://www.Twitter.com/EducatedSavge)
