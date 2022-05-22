@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @EddieSavageOG, the original Educated Savage on the internet. 
-- 👀 I’m a Full Stack website developer and refreshing my computer programming languages.
-- 🌱 I’m currently learning JavaScript and am pretty excited at seeing what I can do!
-- 💞️ I’m looking to collaborate on front end web design. 
-- 📫 How to reach me: I have a website! It's http://www.educatedsavage.com and http://www.CharleneSlimp.com
+![Banner on Github for EducatedSavage](GithubBanner.jpg?raw=true)
+
+- [Educated Savage Phtoography](http://www.EducatedSavage.com)
+- [Personal Portfolio Site](http://www.CharleneSlimp.com)
+- [Educated Savage Twitter](http://www.Twitter.com/EducatedSavge)
+
+Computer Languages:
+- HTML5
+- CSS3
+- Sass
+- JavaScript/ECMAScript 6
+- Node.js
+- Express.js
+- MongoDB
+- React.js
+- C++
+- Pascal (RIP)
+
+Technologies:
+- Adobe
+- Wordpress
+- Git
+- NPM
+- Figma
+- GIMP
+
+
 
 <!---
 EddieSavageOG/EddieSavageOG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
