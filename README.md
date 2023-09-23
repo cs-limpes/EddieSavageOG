@@ -5,13 +5,13 @@
 
 <p>I had a prior career in international health care rehabilitation accreditation as an Executive Adminitrative Assistant+ but I've enjoyed webdev and computer programming (since junior high) on the side for fun and am now enjoying my software engineering career.</p>
 
-- 🌱 I’m currently learning => **Laravel, Python, Arduino, RaspberryPi.**
+- 🌱 I’m currently learning => **Laravel, Python**
 
-- 👨‍💻 All of my projects are available => [HERE](https://www.CharleneSlimp.com)
+- 👨‍💻 Consultations are available => [HERE](https://www.CharleneSlimp.com)
 
 - 💬 Ask me about => **Raspberry Pi, Photography**
 
-- ⚡ Fun fact => **I play three instruments badly and speak 4 additional languages badly.**
+- ⚡ Fun fact => **I play five instruments badly and speak 4 additional languages badly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
